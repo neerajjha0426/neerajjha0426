@@ -1,12 +1,27 @@
-# README
+# About Me
+Hello! I'm **neerajjha0426**, a passionate developer.
 
-This is a sample README file.
+# Tech Stack
+- JavaScript
+- Python
+- React
+- Node.js
 
-## Usage
+# GitHub Stats
+![GitHub Stats](https://github.com/neerajjha0426/stats.svg)
 
-To use this repository, please configure your settings:
+# Top Languages
+![Top Languages](https://github.com/neerajjha0426/top-languages.svg)
 
-username=neerajjha0426
-user=neerajjha0426
+# Connect with me
+- Twitter: [@neerajjha0426](https://twitter.com/neerajjha0426)
+- LinkedIn: [neerajjha0426](https://linkedin.com/in/neerajjha0426)
 
-Thank you for using this repository!
+# Random Dev Quote
+"Code is like humor. When you have to explain it, it’s bad."
+
+# Profile Views
+![Profile Views](https://github.com/neerajjha0426/views.svg)
+
+# Typing SVG
+![Typing SVG](https://github.com/neerajjha0426/typing.svg)
